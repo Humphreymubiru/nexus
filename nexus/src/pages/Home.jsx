@@ -1,5 +1,5 @@
-import React from 'react'
-import Navbar from '../components/Navbar'
+import React from 'react';
+import Navbar from '../components/Navbar.jsx';
 
 const Home = () => {
     return (
@@ -7,6 +7,6 @@ const Home = () => {
             <Navbar />
         </div>
     )
-}
+};
 
-export default Home
+export default Home;
